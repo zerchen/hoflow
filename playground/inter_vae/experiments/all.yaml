@@ -1,0 +1,7 @@
+trainset_3d: graspxl-grab-dexycb
+trainset_3d_split: s0_5m-s0_7k-s0_1k
+testset: grab
+testset_split: s0_1k
+train_batch_size: 8
+num_iters: 100000
+trainset_3d_sampling_weights: 0.4,0.5,0.1

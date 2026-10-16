@@ -1,0 +1,3 @@
+trainset_3d: grab
+testset: grab
+num_iters: 50000

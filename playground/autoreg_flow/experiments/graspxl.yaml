@@ -1,0 +1,4 @@
+trainset_3d: graspxl
+trainset_3d_split: s0_5m
+testset: graspxl
+testset_split: s0_1k

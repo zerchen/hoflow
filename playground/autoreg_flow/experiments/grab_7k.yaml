@@ -1,0 +1,4 @@
+trainset_3d: grab
+trainset_3d_split: s0_7k
+testset: grab
+testset_split: s0_1k

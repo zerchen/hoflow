@@ -1,0 +1,8 @@
+trainset_3d: dexycb
+trainset_3d_split: s0_1k
+testset: dexycb
+testset_split: s0_1k
+num_iters: 50000
+window_size: 96
+test_window_size: 96
+train_batch_size: 8

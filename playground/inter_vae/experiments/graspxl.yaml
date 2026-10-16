@@ -1,0 +1,6 @@
+trainset_3d: graspxl
+trainset_3d_split: s0_5m
+testset: grab
+testset_split: s0_1k
+train_batch_size: 16
+num_iters: 100000

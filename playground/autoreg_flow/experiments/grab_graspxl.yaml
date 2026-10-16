@@ -1,0 +1,5 @@
+trainset_3d: grab-graspxl
+trainset_3d_split: s0_5m-s0_7k
+trainset_3d_sampling_weights: 0.7,0.3
+testset: grab
+testset_split: s0_1k
